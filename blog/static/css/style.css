@@ -1,0 +1,31 @@
+/* Custom styling */
+body {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.blog-content {
+    background-color: #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Custom button styles */
+.btn {
+    border-radius: 5px;
+}
+
+/* Link hover effect */
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+/* Header styling */
+header h1 {
+    color: #007bff;
+}
